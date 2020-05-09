@@ -1,0 +1,9 @@
+# Here is a model i think for the homework 13.2 ??? its ready to be inserted into
+# the guessing game from last assignment. But first ask Abalurd if this
+# is correct or not before adding and (where?) on Thursday.
+
+class Result():
+    def __init__(self, score, player_name, date):
+        self.score = score
+        self.player_name = player_name
+        self.date = date

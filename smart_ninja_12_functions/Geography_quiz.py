@@ -1,0 +1,1 @@
+def countries_capitals = {"Austria": "Vienna", "Croatia": "Zagreb", "Spain": "Madrid", "Slovenia": "Ljubljana"}
